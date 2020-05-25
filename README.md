@@ -1,4 +1,10 @@
 
+# Enterprise Software Application for Employee Management
+
+Course code : **CMPE-272**
+
+Group name : **People Plus**
+_________________________________________________________________________________
 An Enterprise Software Application for managing employees in an organization, end-to-end.
 Based on Scotch.io's [Tutorial](https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
 
